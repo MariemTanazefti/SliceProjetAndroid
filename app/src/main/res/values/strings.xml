@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Slices</string>
+    <string name="click_string">Count: %d\u00B</string>
+</resources>
